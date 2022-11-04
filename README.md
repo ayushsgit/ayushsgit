@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsgit&show_icons=true&locale=en" alt="ayushsgit" /></p>
 
-[![@ayush993's Holopin board](https://holopin.io/api/user/board?user=ayush993)](https://holopin.io/@ayush993)
+[![@ayush993's Holopin board](https://holopin.me/ayush993)](https://holopin.io/@ayush993)
