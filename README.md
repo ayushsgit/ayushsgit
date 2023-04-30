@@ -19,4 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsgit&show_icons=true&locale=en" alt="ayushsgit" /></p>
 
+Projects I have made : Tic-Tac-Toe-Game-in-C : (https://replit.com/@AyushSRepl/Tic-Tac-Toe-Game-in-C)
+
 [![@ayush993's Holopin board](https://holopin.me/ayush993)](https://holopin.io/@ayush993)
