@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsstwt" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsstwt?logo=twitter&style=for-the-badge" alt="ayushsstwt" /></a> </p>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C language** and **Java language**
 
 - 📫 How to reach me **ayushpro2364@gmail.com**
 
