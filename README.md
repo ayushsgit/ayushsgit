@@ -25,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsgit&show_icons=true&locale=en" alt="ayushsgit" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsgit&" alt="ayushsgit" /></p>
+
 [![@ayush993's Holopin board](https://holopin.me/ayush993)](https://holopin.io/@ayush993)
