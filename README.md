@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 **[MERN App with Docker Compose](https://github.com/iam-veeramalla/MERN-docker-compose)**  
+- 🔹 **MERN App with Docker Compose**  
   Containerized and deployed a full-stack MERN app using Docker Compose for seamless multi-container orchestration.
 
 - 🔹 **GitHub Self-Hosted Runner on AWS**  
