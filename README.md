@@ -11,7 +11,7 @@
 - 👨‍💻 DevOps Engineer focused on cloud-native development, automation, and scalable infrastructure.  
 - 🚀 Skilled in AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, and CI/CD pipeline automation.  
 - 🧰 Experienced in Linux system administration and scripting (Bash + Python).  
-- 🌱 Currently improving skills in GitOps, Observability (Prometheus, Grafana), and Service Mesh.  
+- 🌱 Currently improving skills in GitOps, observability (Prometheus, Grafana), and service mesh.  
 - 🌐 Passionate about cloud computing, open source, and building efficient DevOps pipelines.  
 
 📫 **Reach me at:**  
@@ -20,10 +20,25 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlighted DevOps Projects
 
-- 🔹 **MERN App with Docker Compose**  
-  Containerized and deployed a full-stack MERN app using Docker Compose for seamless multi-container orchestration.
+- 🔹 **EC2 Access Control with VPC, NACLs & Security Groups**  
+  Configured layered network security using AWS Security Groups and NACLs to enforce strict infrastructure governance.
+
+- 🔹 **Dynamic React + Vite App Deployment on AWS EC2**  
+  Deployed a production-ready React + Vite app on Apache2, solving routing and asset-loading challenges.
+
+- 🔹 **Static & Dynamic Website Hosting on EC2 with Apache & Node.js**  
+  Hosted static HTML and extended functionality using Node.js on a single EC2 instance.
+
+- 🔹 **3-Tier MERN App Deployment with Docker Compose**  
+  Containerized a full-stack MERN application and orchestrated multi-service deployment using Docker Compose.
+
+- 🔹 **Django App Containerization with Docker**  
+  Packaged and ran a Django application inside a Docker container with proper port mapping for local access.
+
+- 🔹 **Go App Docker Image Optimization (636MB → 1.96MB)**  
+  Used multi-stage builds to drastically reduce image size, boosting performance and reducing the attack surface.
 
 - 🔹 **GitHub Self-Hosted Runner on AWS**  
   Configured an EC2 instance to act as a GitHub Actions runner for CI/CD pipelines, including HTTPS-secured inbound communication.
@@ -33,29 +48,35 @@
 
 ---
 
-### 🧰 Skills & Tools
+### 🧰 Skills & Technologies
 
-**Cloud & Infra:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)  
-![EC2](https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+#### ⚙️ DevOps & Infrastructure
+- 🧱 **Kubernetes**: ConfigMaps, Secrets, Ingress, Services, RBAC, Custom Resources, Minikube, kOps, Kubeshark  
+- 🧩 **IaC Tools**: Terraform, Ansible  
+- 🔁 **CI/CD**: Jenkins, GitHub Actions, GitLab CI, end-to-end CI/CD pipelines  
+- 📈 **Monitoring**: Prometheus, Grafana, CloudWatch  
+- 🐳 **Containers**: Docker, multi-container orchestration  
 
-**Containers & Orchestration:**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+#### ☁️ Cloud & Platforms
+- ☁️ **AWS Services**: EC2, IAM, S3, Lambda  
+- 🌐 **Cloud Networking**: VPC, Route53, Auto Scaling, Load Balancers  
+- 🛠️ **Automation**: AWS CLI, Bash scripts, infrastructure reporting tools  
 
-**CI/CD & Monitoring:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-orange.svg?style=for-the-badge&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+#### 🐧 System & Scripting
+- 🐧 **Linux Administration**: user management, system services, logs, monitoring  
+- 🖥️ **Scripting**: Bash, Shell, Python  
 
-**Scripting & Programming:**  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+#### 🧪 Dev Tools
+- 🔧 **Version Control**: Git, GitHub  
+- 🗂️ **Project Management**: Jira  
+- 📝 **Documentation**: Markdown, Hashnode, technical blogging  
+
+---
+
+### 📚 Blogs
+
+- 📘 [Terraform on AWS: A Step-by-Step Guide from Basics to Advanced Configurations](https://ayushshash.hashnode.dev/terraform-on-aws-a-step-by-step-guide-from-basics-to-advanced-configurations)  
+- 🔐 [Introduction to Passwordless Authentication with Ansible](https://ayushshash.hashnode.dev/introduction-to-passwordless-authentication-with-ansible)
 
 ---
 
