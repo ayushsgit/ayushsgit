@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Shrotriya</h1>
-<h3 align="center">AWS & DevOps Engineer | Linux Enthusiast | Automation Advocate</h3>
+<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | Linux</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushsgit&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsgit" />
