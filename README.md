@@ -7,6 +7,11 @@
 
 ---
 
+Programming: Python (Advanced), JavaScript, C++  
+AI Data: Code Annotation, AI Output Refinement, Dataset Curation  
+
+---
+
 🔧 **About Me**  
 - 👨‍💻 DevOps Engineer focused on cloud-native development, automation, and scalable infrastructure.  
 - 🚀 Skilled in AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, and CI/CD pipeline automation.  
