@@ -50,6 +50,8 @@
 - 🔹 **AWS Resource Tracker Script**  
   Bash script using AWS CLI and `jq` to report on S3, EC2, Lambda, IAM resources — automated cloud auditing.
 
+- 🔹 **Refactored AI-generated Python/JS code for efficiency and readability in deployed applications.**
+
 ---
 
 ### 🧰 Skills & Technologies
