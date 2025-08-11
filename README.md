@@ -7,8 +7,8 @@
 
 ---
 
-Programming: Python (Advanced), JavaScript, C++  
-AI Data: Code Annotation, AI Output Refinement, Dataset Curation  
+**Programming: Python (Advanced), JavaScript, C++**
+**AI Data: Code Annotation, AI Output Refinement, Dataset Curation**  
 
 ---
 
