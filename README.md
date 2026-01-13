@@ -7,6 +7,14 @@
 
 ---
 
+### 🚀 Recent Open Source Contributions
+**Onyx (17k+ Stars)** - *DevOps & Kubernetes*
+- **Critical Fix:** Debugged and fixed a `CrashLoopBackOff` in the Postgres Operator caused by a Helm label mismatch.
+- **Tools Used:** Kubernetes, Helm, CloudNativePG.
+- [View Pull Request #7397](https://github.com/onyx-dot-app/onyx/pull/7397)
+
+---
+
  - **Programming: Python (Advanced), JavaScript, C++**
  - **AI Data: Code Annotation, AI Output Refinement, Dataset Curation**  
 
