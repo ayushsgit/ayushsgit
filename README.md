@@ -28,17 +28,18 @@
 - 🌐 Passionate about cloud computing, open source, and building efficient DevOps pipelines.  
 
 <h3 align="center">📫 Reach me at</h3>
+
 <p align="center">
   <a href="https://github.com/ayushsgit" target="_blank">
-    <img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ayush-shrotriya-565b262b3" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://ayushshash.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="40"/>
   </a>
 </p>
 
