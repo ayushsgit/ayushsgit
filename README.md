@@ -100,14 +100,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsgit&theme=radical" alt="ayushsgit streak"/>
-</p>
-
----
-
 ### 🏅 Holopin Badges
 [![@ayush993's Holopin board](https://holopin.me/ayush993)](https://holopin.io/@ayush993)
 
