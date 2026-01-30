@@ -27,14 +27,27 @@
 - 🌱 Currently improving skills in GitOps, observability (Prometheus, Grafana), and service mesh.  
 - 🌐 Passionate about cloud computing, open source, and building efficient DevOps pipelines.  
 
-📫 **Reach me at:**  
-- 🌐 [GitHub](https://github.com/ayushsgit) | [LinkedIn](https://linkedin.com/in/ayush-shrotriya-565b262b3) 
+<h3 align="center">📫 **Reach me at**</h3>
+
+<p align="center">
+  <a href="https://github.com/ayushsgit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ayush-shrotriya-565b262b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ayushshash.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="40"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/ayushsgit" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180"/>
   </a>
-</p>
+</p>>
 
 ---
 
